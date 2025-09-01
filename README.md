@@ -70,5 +70,3 @@ Este espaço é um portfólio dos meus projetos, refletindo meu crescimento e a 
   />
 
 </p>
-
----
